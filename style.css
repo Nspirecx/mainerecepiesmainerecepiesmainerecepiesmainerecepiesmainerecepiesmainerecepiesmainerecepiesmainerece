@@ -30,9 +30,9 @@ h5 {
 	display: flex;
 	display: inline-block;
 	justify-content: center;
-	lg-width: 20%;
-	m-width; 30%
-	sm-width: 50%;
+	lg-width: 100px;
+	m-width; 200px;
+	sm-width: 300px;
 	margin-left: 50px;
 	margin-top: 50px;
 }
