@@ -28,8 +28,8 @@ h5 {
 
 .card {
 	display: flex;
-	display: inline-block;
 	justify-content: center;
+	display: inline-block;
 	width: 35%;
 	height: 40%;
 	margin-left: 50px;
