@@ -38,6 +38,8 @@ img {
 	height: auto;
 	max-width: 290px;
 	max-height: 170px;
+	min-width: 290px;
+	min-height: 170px;
 	border-radius: 5px;
 }
 
@@ -49,6 +51,10 @@ img {
 	border-radius: 5px;
 	user-select: none;
 	padding: 6px;
+	max-width: 300px;
+	max-height: 350px;
+	min-width: 300px;
+	min-height: 350px;
 	width: 300px;
 	height: 350px;
 }
